@@ -1,5 +1,6 @@
 # Notes Contrib
 Feel free to upload your files to this repositories :)
+- [EsmeraldaAmmann](https://github.com/EsmeraldaAmmann)
 - [SindeeAnestassia](https://github.com/SindeeAnestassia)
 - [FayreKatrine](https://github.com/FayreKatrine)
 - [benewfeeneyew](https://github.com/benewfeeneyew)
@@ -98,4 +99,3 @@ Feel free to upload your files to this repositories :)
 - [PacalHaluu](https://github.com/Pacalhaluu)
 - [purwo3](https://github.com/Donaellena21)
 - [PacalHalu](https://github.com/PacalHalu)
-- [Arjun](https://github.com/arjun434)
